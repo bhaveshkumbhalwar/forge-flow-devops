@@ -180,7 +180,7 @@ Never commit `.env` files, credentials, or database files.
 ---
 
 **Project:** FlowForge DevOps Capstone
-**Repository:** https://github.com/bhanvesh/flowforge-devops-capstone
+**Repository:** https://github.com/bhavesh/flowforge-devops-capstone
 
 ## Repository Structure
 
